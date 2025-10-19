@@ -1,5 +1,5 @@
 /*Dayana Monserrat Rivera Montes de Oca
-Laboratorio Practica 6*/
+Laboratorio Practica 7*/
 
 #include<stdio.h>
 int main ()
